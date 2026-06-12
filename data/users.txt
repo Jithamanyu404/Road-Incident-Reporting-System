@@ -1,1 +1,7 @@
+admin    admin123  control_room -1
+officer1 pass1     officer       1
+officer2 pass2     officer       2
+officer3 pass3     officer       3
+user     user123   commuter     -1
+user1    user1123  commuter     -1
 
